@@ -37,7 +37,7 @@ curl  http://localhost:8090/genids/init_node?nodeid=0
 ```shell
 /genids/getid
 
-curl  http://localhost:8090/sp/genids/getid
+curl  http://localhost:8090/genids/getid
 
 返回：
 {
